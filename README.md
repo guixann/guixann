@@ -7,7 +7,7 @@ I'm a developer passionate about building AI and data systems.
 - 💼 I am **#OpenToWork** in Data Engineering, ML Engineering, or AI-related roles
 - 📫 How to reach me: guixann@gmail.com
 - ⚡ Fun fact: I built a RAG system to query constitutions!
-Yes, if you have an offer or would like to chat please drop me a mail!
+- Yes, if you have an offer or would like to chat please drop me a mail!
 <!---
 guixann/guixann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
